@@ -530,7 +530,7 @@ button {
     opacity: 1;
 }
 
-.quote {
+.font-18 {
     font-size: 18px;
 }
 
@@ -726,10 +726,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
-
 h4 {
     color: #333333!important;
 }
@@ -757,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(255, 250, 236, 0.43);
+    background-color: #ffdece79;
     padding: 40px 40px 40px 40px;
 }
 
