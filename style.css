@@ -648,7 +648,6 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -659,7 +658,7 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 500;
     color: #212121!important;
 }
 
@@ -695,6 +694,7 @@ p {
 }
 
 .h1 {
+    color: #ffb993;
     font-size: 20px;
     font-family: "Open Sans";
 }
@@ -759,7 +759,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #ffdece79;
+    background-color: #00000031;
     padding: 40px 40px 40px 40px;
 }
 
@@ -781,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #212121!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
